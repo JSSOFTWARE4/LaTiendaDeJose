@@ -1,6 +1,6 @@
 <h1 align="center"> LaTiendaDeJose </h1>
 
-Desarrollo web Grupo JSSoftware
+Una aplicación para facilitar el manejo de inventarios, personal y ventas de tu Startup
 
  <p align="left">
    <img src="https://img.shields.io/badge/Status-En%20desarrollo-yellowgreen">
