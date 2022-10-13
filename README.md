@@ -6,6 +6,8 @@ Una aplicación para facilitar el manejo de inventarios, personal y ventas de tu
    <img src="https://img.shields.io/badge/Status-En%20desarrollo-yellowgreen">
 </p>
 
+![LaTiendaDeJose](https://github.com/JSSOFTWARE4/LaTiendaDeJose/blob/master/logoc4.png)
+
 ## Descripción del Proyecto
 El contenido de este repositorio corresponde a la creación del aplicativo web LaTiendaDeJose por el equipo de trabajo JSSoftware en el marco del último ciclo del Diplomado en desarrollo de Software MinTic 2022.
  
